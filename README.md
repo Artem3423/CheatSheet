@@ -8,9 +8,12 @@
 Таким образом каждый элемент списка содержит ответ на свой вопрос, в соответствии с названием списка, что по своему описывает основную тему самой шпаргалки - космос.
 
 **Непосредственно сам список:**
-![fybSZ9T05yM](https://user-images.githubusercontent.com/77580790/143134644-16f8b3db-d9dd-4955-b175-f191cdec35ba.jpg)
+
+<img src="https://user-images.githubusercontent.com/77580790/143134644-16f8b3db-d9dd-4955-b175-f191cdec35ba.jpg" width="250" />
+
 **Одна из вариаций перехода на определенную страницу в Интернете:**
-![drEB4fEZbzU](https://user-images.githubusercontent.com/77580790/143134551-c825918e-c055-49d6-bdbc-7bef5d1603f3.jpg)
+
+<img src="https://user-images.githubusercontent.com/77580790/143134551-c825918e-c055-49d6-bdbc-7bef5d1603f3.jpg" width="250" />
 
 ###Таким образом проект содержит 10 разделов-шпаргалок:
 
